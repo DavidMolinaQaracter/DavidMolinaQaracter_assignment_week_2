@@ -4,12 +4,6 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class ReverseAndSearchArray {
-    /*
-    • Commit your changes with a descriptive title and message.
-    • Push the branch to the remote repository.
-    • Merge feature/array into main using the NO-FAST-FORWARD option.
-    • Push the updated main branch
-    * */
     static void main(){
         Scanner sc = new Scanner(System.in);
 
