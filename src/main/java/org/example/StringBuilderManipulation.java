@@ -4,10 +4,15 @@ import java.util.Scanner;
 
 public class StringBuilderManipulation {
 
+
     static void main(){
         repeater();
     }
 
+    /**
+     * This method is to test the StringBuilderManipulation
+     * Ask the user for some words and repeat that words the number of times the user says
+     */
     static void repeater(){
         Scanner sc = new Scanner(System.in);
         System.out.println("How many words do you want to enter?: ");
